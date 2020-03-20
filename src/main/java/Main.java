@@ -4,7 +4,6 @@ import com.linecorp.armeria.common.HttpStatus;
 import com.linecorp.armeria.server.Server;
 import com.linecorp.armeria.server.ServerBuilder;
 import customer.CustomerService;
-import util.Database;
 
 import java.util.concurrent.CompletableFuture;
 
